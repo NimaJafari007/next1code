@@ -12,6 +12,7 @@ html{
     src: url(../assets/BYekan.ttf);
 }
 body{
+    /* font-family: sans-serif; */
     font-family: "yekan";
 }
 .container{
@@ -190,4 +191,14 @@ h2{
     /* margin-bottom: .4rem; */
     vertical-align: middle;
     padding-bottom: .8rem;
+}
+.list{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    list-style-type: disc;
+    list-style-position: inside;
+
+}
+.list li{
+    font-size: 1.1rem;
 }
